@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./hotswap_rgb/KMK FIrmware/kmk_firmware-master"
+    ]
+}
